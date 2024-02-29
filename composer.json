@@ -1,0 +1,15 @@
+{
+    "name": "longo/simple-router-poo",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor Longo",
+            "email": "longovictor23@gmail.com"
+        }
+    ],
+    "require": {}
+}
